@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,4 +130,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
