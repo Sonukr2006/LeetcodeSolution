@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
 ## String
@@ -144,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -167,4 +170,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
