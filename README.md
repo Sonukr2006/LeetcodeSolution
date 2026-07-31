@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -108,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -119,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -140,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
 ## String
