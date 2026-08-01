@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -108,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -142,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -149,6 +152,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -176,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
