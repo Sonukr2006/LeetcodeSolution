@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
@@ -107,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
@@ -121,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -142,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
