@@ -178,6 +178,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -215,4 +216,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
