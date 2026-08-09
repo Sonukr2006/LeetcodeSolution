@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -122,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
@@ -139,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -168,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
@@ -181,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -244,4 +249,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
