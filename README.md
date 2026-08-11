@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0814-binary-tree-pruning](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2236-root-equals-sum-of-children) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -203,11 +206,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -242,6 +247,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0700-search-in-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
