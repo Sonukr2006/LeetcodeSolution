@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
@@ -130,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -240,6 +242,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -269,4 +272,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
