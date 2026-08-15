@@ -296,4 +296,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
