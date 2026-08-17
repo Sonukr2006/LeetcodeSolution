@@ -9,21 +9,53 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+class BSTIterator {
+public:
+    void pushAll(TreeNode* node){
+        for(; node != NULL;){
+            stack.push(node);
+            if(reverse) node = node->right;
+            else node = node->left;
+        }
+    }
+    stack<TreeNode*> stack;
+    bool reverse = true;
+    BSTIterator(TreeNode* root, bool rev) {
+        reverse = rev;
+        pushAll(root);
+    }
+    
+    int next() {
+        TreeNode* temp = stack.top();
+        stack.pop();
+        if(!reverse) pushAll(temp->right);
+        else pushAll(temp->left);
+        return temp->val;
+    }
+    
+    bool hasNext() {;
+        return !stack.empty();
+        
+    }
+};
+
 class Solution {
 public:
-    bool solve(TreeNode* root, int k, unordered_set<int> &st){
-        if(root == NULL) return false;
-
-        if(st.count(k - root->val)){
-            return true;
-        }
-        else
-            st.insert(root->val);
-            
-        return solve(root->left, k, st) || solve(root->right, k, st);
-    }
+    
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> mp;
-        return solve(root, k, mp);
+        BSTIterator l(root, false);
+        BSTIterator r(root, true);
+
+        int i = l.next();
+        int j = r.next();
+
+        while(i < j){
+            if(i+j == k) return true;
+            else if(i+j < k) i = l.next();
+            else j = r.next();
+        }
+        return false;
+
+
     }
 };
