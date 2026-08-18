@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -188,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -262,6 +264,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -285,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0098-validate-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -307,6 +311,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Design
 |  |
 | ------- |
