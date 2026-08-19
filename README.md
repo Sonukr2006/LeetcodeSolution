@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -183,6 +184,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -255,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -285,6 +288,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -299,6 +303,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 ## DP on Trees
