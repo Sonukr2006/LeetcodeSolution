@@ -113,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
@@ -148,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
@@ -210,6 +212,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -295,6 +298,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0701-insert-into-a-binary-search-tree) |
