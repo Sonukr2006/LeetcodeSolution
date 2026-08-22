@@ -13,11 +13,7 @@ class Solution {
 public:
     int dfs(TreeNode* root, unordered_map<int, int> &mp, int &count){
         if(!root) return 0;
-
-        int left = dfs(root->left, mp, count);
-        int right = dfs(root->right, mp, count);
-
-        int sum = left+right+root->val;
+        int sum = dfs(root->left, mp, count)+dfs(root->right, mp, count)+root->val;
         mp[sum]++;
         count = max(count, mp[sum]);
         return sum;
