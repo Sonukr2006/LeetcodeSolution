@@ -121,6 +121,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0513-find-bottom-left-tree-value](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
@@ -162,6 +163,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0513-find-bottom-left-tree-value](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
@@ -233,6 +235,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0513-find-bottom-left-tree-value](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -323,6 +326,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0449-serialize-and-deserialize-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0701-insert-into-a-binary-search-tree) |
