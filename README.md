@@ -124,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -166,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -237,6 +239,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0563-binary-tree-tilt](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0563-binary-tree-tilt) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -255,6 +258,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0449-serialize-and-deserialize-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0606-construct-string-from-binary-tree) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
