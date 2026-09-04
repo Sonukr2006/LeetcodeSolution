@@ -30,9 +30,6 @@ public:
         return str + "(" + left + ")" + "(" + right + ")";
     }
     string tree2str(TreeNode* root) {
-        string res = "";
-
-
         return solve(root);
     }
 };
