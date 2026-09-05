@@ -18,10 +18,10 @@ public:
         }
 
         int mid = (low+high)/2;
-        buildSegmentTree(arr, seg, 2LL*ind+1, low, mid);
-        buildSegmentTree(arr, seg, 2LL*ind+2, mid+1, high);
+        buildSegmentTree(arr, seg, ind << 1 | 1, low, mid);
+        buildSegmentTree(arr, seg, (ind+1) << 1, mid+1, high);
 
-        seg[ind] = seg[2*ind+1] + seg[2*ind+2];
+        seg[ind] = seg[ind << 1 | 1] + seg[(ind+1) << 1];
     }
     void updateSegment(int ind, int index, int val, int low, int high, vector<int> &seg){
         if(high == low){
@@ -31,11 +31,11 @@ public:
 
         int mid = (low+high)/2;
         if(index <= mid)
-            updateSegment(2LL*ind+1, index, val, low, mid, seg);
+            updateSegment(ind << 1 | 1, index, val, low, mid, seg);
         else
-            updateSegment(2LL*ind+2, index , val, mid+1, high, seg);
+            updateSegment((ind+1) << 1, index , val, mid+1, high, seg);
 
-        seg[ind] = seg[2LL*ind+1]+seg[2LL*ind+2];
+        seg[ind] = seg[ind << 1 | 1]+seg[(ind+1) << 1];
     }
     void update(int index, int val) {
         updateSegment(0, index, val, 0, n-1, seg);
@@ -52,8 +52,8 @@ public:
         if(l <= low && high <= r) return seg[ind];
 
         int mid = (low+high)/2;
-        int left = sumOfSegment(2LL*ind+1, low, mid, l, r);
-        int right = sumOfSegment(2LL*ind+2, mid+1, high, l, r);
+        int left = sumOfSegment(ind << 1 | 1, low, mid, l, r);
+        int right = sumOfSegment((ind+1) << 1, mid+1, high, l, r);
 
         return left+right;
     }
