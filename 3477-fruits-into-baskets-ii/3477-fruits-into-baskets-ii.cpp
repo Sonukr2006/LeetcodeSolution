@@ -6,17 +6,17 @@ public:
 
         for(int i = 0; i < fruits.size(); ++i){
             for(int j = 0; j<n; ++j){
-                if(!vis[j]){
+                if(baskets[j] != -1){
                     if(fruits[i] <= baskets[j]){
-                        vis[j] = true;
+                        baskets[j] = -1;
                         break;
                     }
                 }
             }
         }
         int res = 0;
-        for(bool it : vis){
-            if(!it){
+        for(int it : baskets){
+            if(it != -1){
                 res++;
             }
         }
