@@ -287,6 +287,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
@@ -295,6 +296,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -302,6 +304,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0307-range-sum-query-mutable](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -465,8 +468,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 ## Treap
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
