@@ -289,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -301,6 +302,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -311,6 +313,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -342,6 +345,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0341-flatten-nested-list-iterator](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0341-flatten-nested-list-iterator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -422,6 +426,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -436,6 +441,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Quickselect
 |  |
 | ------- |
@@ -460,6 +466,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 ## Sqrt Decomposition
 |  |
