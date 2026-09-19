@@ -266,6 +266,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0606-construct-string-from-binary-tree) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Enumeration
@@ -288,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
@@ -313,6 +315,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
@@ -488,6 +491,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 ## Treap
