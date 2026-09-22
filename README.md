@@ -295,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3895-count-digit-appearances](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3871-count-commas-in-range-ii) |
+| [3895-count-digit-appearances](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3895-count-digit-appearances) |
 ## Backtracking
 |  |
 | ------- |
