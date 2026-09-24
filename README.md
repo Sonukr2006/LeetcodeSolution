@@ -277,6 +277,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -441,6 +442,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -506,5 +508,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
