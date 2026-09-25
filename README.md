@@ -289,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
+| [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -444,6 +445,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
+| [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -509,5 +511,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
