@@ -295,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -321,6 +322,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -478,6 +480,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
 ## Sqrt Decomposition
 |  |
@@ -512,5 +515,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
