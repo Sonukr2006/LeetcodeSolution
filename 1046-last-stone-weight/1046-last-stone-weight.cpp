@@ -14,10 +14,8 @@ public:
             int secVal = pq.top();
             pq.pop();
 
-            if(firstVal != secVal){
-                pq.push(firstVal - secVal);
-            }else
-                pq.push(0);
+            pq.push(firstVal - secVal);
+            
         }
 
         return pq.top();
