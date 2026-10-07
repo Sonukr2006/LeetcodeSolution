@@ -209,6 +209,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0451-sort-characters-by-frequency](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
+| [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Tree
 |  |
@@ -303,6 +304,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3161-block-placement-queries](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3161-block-placement-queries) |
@@ -472,6 +474,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1046-last-stone-weight](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Quickselect
 |  |
@@ -542,4 +545,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
