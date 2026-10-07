@@ -292,6 +292,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0307-range-sum-query-mutable](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
@@ -465,6 +466,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1046-last-stone-weight) |
