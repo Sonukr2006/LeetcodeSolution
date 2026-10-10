@@ -204,6 +204,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
@@ -284,6 +285,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -460,6 +462,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
