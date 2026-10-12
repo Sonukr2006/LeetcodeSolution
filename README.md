@@ -214,6 +214,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2285-maximum-total-importance-of-roads) |
 | [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Tree
@@ -488,6 +489,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1046-last-stone-weight](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2285-maximum-total-importance-of-roads) |
 | [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Quickselect
@@ -563,9 +565,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2285-maximum-total-importance-of-roads) |
 | [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0084-largest-rectangle-in-histogram) |
+## Graph Theory
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
