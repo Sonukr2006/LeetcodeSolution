@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Tree
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2542-maximum-subsequence-score](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2542-maximum-subsequence-score) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -532,6 +534,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Merge Sort
 |  |
 | ------- |
