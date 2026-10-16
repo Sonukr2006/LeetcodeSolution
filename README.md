@@ -212,6 +212,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0295-find-median-from-data-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -310,6 +311,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
+| [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -494,6 +496,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
@@ -577,6 +580,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0857-minimum-cost-to-hire-k-workers) |
