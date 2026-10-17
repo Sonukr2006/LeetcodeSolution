@@ -318,6 +318,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1046-last-stone-weight) |
+| [1480-running-sum-of-1d-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
@@ -596,4 +597,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2285-maximum-total-importance-of-roads) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
