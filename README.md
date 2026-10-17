@@ -362,6 +362,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0263-ugly-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
