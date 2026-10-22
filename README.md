@@ -369,6 +369,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0263-ugly-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
@@ -426,6 +427,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
@@ -613,4 +615,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
