@@ -387,6 +387,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -619,4 +620,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
