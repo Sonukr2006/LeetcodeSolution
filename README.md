@@ -372,6 +372,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0263-ugly-number) |
@@ -433,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
@@ -634,4 +636,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
