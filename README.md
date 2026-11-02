@@ -320,6 +320,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
@@ -442,6 +443,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 ## DP on Trees
 |  |
 | ------- |
