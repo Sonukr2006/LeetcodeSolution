@@ -281,6 +281,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -435,6 +436,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
@@ -500,6 +502,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0295-find-median-from-data-stream) |
@@ -642,4 +645,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
