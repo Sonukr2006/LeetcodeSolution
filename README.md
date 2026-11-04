@@ -302,6 +302,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0016-3sum-closest](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0059-spiral-matrix-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
@@ -437,6 +438,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
@@ -611,6 +613,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0045-jump-game-ii) |
 | [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
