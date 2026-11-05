@@ -310,6 +310,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -444,6 +445,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
