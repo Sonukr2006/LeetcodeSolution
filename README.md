@@ -327,6 +327,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
@@ -450,6 +451,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0931-minimum-falling-path-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -521,6 +523,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0064-minimum-path-sum) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 | [0885-spiral-matrix-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0885-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0931-minimum-falling-path-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
