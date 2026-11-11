@@ -663,4 +663,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
