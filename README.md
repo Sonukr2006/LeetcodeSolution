@@ -383,6 +383,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0263-ugly-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1137-n-th-tribonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3536-maximum-product-of-two-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/3895-count-digit-appearances) |
@@ -454,6 +455,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0931-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1463-cherry-pickup-ii) |
 ## DP on Trees
@@ -651,6 +653,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
