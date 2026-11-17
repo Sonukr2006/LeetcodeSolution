@@ -11,7 +11,19 @@ public:
         return dp[n] = solve(n-1) + solve(n-2) + solve(n-3);
     }
     int tribonacci(int n) {
-        dp.resize(n+1, -1);
-        return solve(n);
+        if(n == 0) return 0;
+        if(n == 1 || n == 2) return 1;
+
+        int first = 0, second = 1, third = 1;
+
+        for(int i = 3; i <= n; i++){
+            int curr = first+second+third;
+            first = second;
+            second = third;
+            third = curr;
+
+        }
+
+        return third;
     }
 };
