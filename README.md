@@ -320,6 +320,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0427-construct-quad-tree](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -393,6 +394,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
+| [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1025-divisor-game) |
@@ -684,4 +687,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
