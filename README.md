@@ -336,6 +336,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1480-running-sum-of-1d-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1834-single-threaded-cpu](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1834-single-threaded-cpu) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2179-count-good-triplets-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -463,6 +464,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1137-n-th-tribonacci-number](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1463-cherry-pickup-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## DP on Trees
 |  |
 | ------- |
