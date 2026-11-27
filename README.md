@@ -314,6 +314,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0307-range-sum-query-mutable) |
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0347-top-k-frequent-elements) |
@@ -354,6 +355,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0493-reverse-pairs) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -456,6 +458,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0120-triangle](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0746-min-cost-climbing-stairs) |
@@ -697,4 +700,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sonukr2006/LeetcodeSolution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
